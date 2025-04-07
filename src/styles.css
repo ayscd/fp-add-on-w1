@@ -1,3 +1,14 @@
+hr {
+    box-shadow: 10px 10px 20px rgb(181, 181, 181);
+    margin-top: 120px;
+}
+
+footer {
+    font-family:'Genova', sans-serif;
+    margin-top: 20px;
+    font-size: 12px;
+}
+
 .main-box {
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
@@ -28,4 +39,20 @@
     border-width: 1px;
     border-color: rgba(156, 156, 156, 0.3);
     border-radius: 10px;
+}
+
+.git-profile, .git-project {
+    color: rgb(81, 75, 35);
+}
+
+.git-profile:hover, .git-project:hover {
+     color: rgba(29, 29, 27, 0.4);
+}
+
+.git-profile:visited, .git-project:visited {
+       color: rgba(27, 29, 27, 0.4);
+}
+
+.git-profile:active, .git-project:active {
+       color: rgba(29, 29, 27, 0.4);
 }
