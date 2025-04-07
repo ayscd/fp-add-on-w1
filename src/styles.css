@@ -1,0 +1,31 @@
+.main-box {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    background-color: rgba(144, 176, 152, 0.3);
+    display: block;
+    max-width: 400px;
+    margin: 120px auto;
+    padding: 30px;
+    border-width: 1px;
+    border-color: rgba(144, 176, 152, 0.3);
+    border-radius: 20px;
+}
+
+.label {
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.countries {
+    margin: 0 auto;
+    margin-top: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    display: block;
+    width: 180px;
+    padding: 5px;
+    font-size: 14px;
+    border-width: 1px;
+    border-color: rgba(156, 156, 156, 0.3);
+    border-radius: 10px;
+}
